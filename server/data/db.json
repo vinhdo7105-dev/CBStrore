@@ -1,0 +1,1111 @@
+{
+  "categories": [
+    {
+      "id": "laptop",
+      "name": "Laptop - Máy Tính Xách Tay",
+      "icon": "Laptop",
+      "description": "Laptop Gaming, Đồ họa, Văn phòng & Mỏng nhẹ chính hãng",
+      "display_order": 0
+    },
+    {
+      "id": "cpu",
+      "name": "CPU - Bộ Vi Xử Lý",
+      "icon": "Cpu",
+      "description": "Bộ xử lý trung tâm Intel Core & AMD Ryzen hiệu năng cao",
+      "display_order": 1
+    },
+    {
+      "id": "mainboard",
+      "name": "Mainboard - Bo Mạch Chủ",
+      "icon": "Layers",
+      "description": "Bo mạch chủ nền tảng Intel LGA1700 và AMD AM5 đa dạng kích thước",
+      "display_order": 2
+    },
+    {
+      "id": "ram",
+      "name": "RAM - Bộ Nhớ Trong",
+      "icon": "Server",
+      "description": "Bộ nhớ RAM DDR5 & DDR4 tốc độ cao, hỗ trợ XMP & EXPO",
+      "display_order": 3
+    },
+    {
+      "id": "vga",
+      "name": "VGA - Card Đồ Họa",
+      "icon": "MonitorPlay",
+      "description": "Card màn hình NVIDIA GeForce RTX 40-series & AMD Radeon RX",
+      "display_order": 4
+    },
+    {
+      "id": "ssd",
+      "name": "SSD - Ổ Cứng Thể Rắn",
+      "icon": "HardDrive",
+      "description": "Ổ cứng NVMe PCIe Gen 4 & Gen 5 tốc độ đọc ghi vượt trội",
+      "display_order": 5
+    },
+    {
+      "id": "psu",
+      "name": "Nguồn Máy Tính (PSU)",
+      "icon": "Zap",
+      "description": "Nguồn công suất thực chuẩn 80 Plus Gold, Platinum chuẩn ATX 3.0",
+      "display_order": 6
+    },
+    {
+      "id": "case",
+      "name": "Vỏ Case Máy Tính",
+      "icon": "Box",
+      "description": "Thùng máy tính thiết kế tối giản, thông thoáng khí và kính cường lực",
+      "display_order": 7
+    },
+    {
+      "id": "cooling",
+      "name": "Tản Nhiệt CPU",
+      "icon": "Fan",
+      "description": "Tản nhiệt khí tháp đôi và tản nhiệt nước AIO hiệu quả làm mát tối đa",
+      "display_order": 8
+    },
+    {
+      "id": "hdd",
+      "name": "HDD - Ổ Cứng Cơ",
+      "icon": "HardDrive",
+      "description": "Ổ cứng HDD dung lượng lớn cho lưu trữ dữ liệu",
+      "display_order": 9
+    },
+    {
+      "id": "vga_likenew",
+      "name": "VGA Like New",
+      "icon": "MonitorPlay",
+      "description": "Card màn hình đã qua sử dụng chất lượng như mới, bảo hành uy tín",
+      "display_order": 10
+    },
+    {
+      "id": "monitor",
+      "name": "Màn Hình Máy Tính",
+      "icon": "Monitor",
+      "description": "Màn hình Gaming, Đồ họa IPS 144Hz - 240Hz 2K 4K",
+      "display_order": 11
+    },
+    {
+      "id": "combo_gear",
+      "name": "Bộ Bàn Phím, Chuột",
+      "icon": "Keyboard",
+      "description": "Combo phím chuột văn phòng và gaming tiện lợi",
+      "display_order": 12
+    },
+    {
+      "id": "keyboard",
+      "name": "Bàn Phím Máy Tính",
+      "icon": "Keyboard",
+      "description": "Bàn phím cơ cơ học custom, switch cao cấp",
+      "display_order": 13
+    },
+    {
+      "id": "mouse",
+      "name": "Chuột Máy Tính",
+      "icon": "Mouse",
+      "description": "Chuột không dây wireless siêu nhẹ cảm biến chính xác",
+      "display_order": 14
+    },
+    {
+      "id": "headset",
+      "name": "Tai Nghe Máy Tính",
+      "icon": "Headphones",
+      "description": "Tai nghe gaming âm thanh vòm 7.1 chống ồn",
+      "display_order": 15
+    },
+    {
+      "id": "speaker",
+      "name": "Loa Máy Tính",
+      "icon": "Volume2",
+      "description": "Hệ thống loa để bàn 2.0 và 2.1 âm thanh sống động",
+      "display_order": 16
+    }
+  ],
+  "products": [
+    {
+      "id": "laptop-acer-aspire-go-ag15",
+      "category_id": "laptop",
+      "sku": "LTAC1016",
+      "name": "Laptop Acer Aspire Go AG15-72P-776J (NX.JRRSV.006) (Core 7-150U/16GB RAM/512GB SSD/15.6\" FHD)",
+      "brand": "Acer",
+      "price": 22899000,
+      "original_price": 25999000,
+      "image_url": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=600&auto=format&fit=crop&q=80",
+      "stock": 15,
+      "warranty": "12 tháng",
+      "specs": {
+        "screen": "15.6\" FHD",
+        "cpu": "Core 7-150U",
+        "ram": "16GB DDR5",
+        "storage": "512GB NVMe"
+      },
+      "featured": true
+    },
+    {
+      "id": "laptop-msi-cyborg-15",
+      "category_id": "laptop",
+      "sku": "LTMS0640",
+      "name": "Laptop MSI Cyborg 15 A13UC-2082VN (i7-13620H/16GB RAM/512GB SSD/RTX 3050 4GB/15.6\" 144Hz)",
+      "brand": "MSI",
+      "price": 27599000,
+      "original_price": 29999000,
+      "image_url": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=600&auto=format&fit=crop&q=80",
+      "stock": 0,
+      "warranty": "24 tháng",
+      "specs": {
+        "screen": "15.6\" 144Hz",
+        "cpu": "i7-13620H",
+        "ram": "16GB DDR5",
+        "vram": "RTX 3050 4GB"
+      },
+      "featured": true
+    },
+    {
+      "id": "laptop-lenovo-legion-pro-7",
+      "category_id": "laptop",
+      "sku": "LTLV0318",
+      "name": "Laptop Lenovo Gaming Legion Pro 7 FIFA World Cup 26 Edition 16IAX10H (i9-14900HX/32GB/2TB/RTX 4090)",
+      "brand": "Lenovo",
+      "price": 109990000,
+      "original_price": 120999000,
+      "image_url": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=600&auto=format&fit=crop&q=80",
+      "stock": 0,
+      "warranty": "36 tháng",
+      "specs": {
+        "screen": "16\" WQXGA 240Hz",
+        "cpu": "i9-14900HX",
+        "ram": "32GB DDR5",
+        "vram": "RTX 4090 16GB"
+      },
+      "featured": true
+    },
+    {
+      "id": "laptop-acer-predator-helios-16",
+      "category_id": "laptop",
+      "sku": "LTAC1029",
+      "name": "Laptop Acer Predator Helios PHN16-I31-72XE (NH.U4RSV.001) (i7-14700HX/16GB/1TB/RTX 4060/16\" 165Hz)",
+      "brand": "Acer",
+      "price": 59999000,
+      "original_price": 61999000,
+      "image_url": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&auto=format&fit=crop&q=80",
+      "stock": 0,
+      "warranty": "24 tháng",
+      "specs": {
+        "screen": "16\" 165Hz",
+        "cpu": "i7-14700HX",
+        "ram": "16GB DDR5",
+        "vram": "RTX 4060 8GB"
+      },
+      "featured": true
+    },
+    {
+      "id": "laptop-acer-aspire-lite",
+      "category_id": "laptop",
+      "sku": "LTAC1062",
+      "name": "Laptop Acer Aspire Lite AL14-47P-R0TR (NX.X0PSV.002) (R5-7520U/16GB RAM/512GB SSD/14.0\" WUXGA)",
+      "brand": "Acer",
+      "price": 17799000,
+      "original_price": 17999000,
+      "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80",
+      "stock": 18,
+      "warranty": "12 tháng",
+      "specs": {
+        "screen": "14.0\" WUXGA",
+        "cpu": "Ryzen 5 7520U",
+        "ram": "16GB LPDDR5",
+        "storage": "512GB SSD"
+      },
+      "featured": true
+    },
+    {
+      "id": "laptop-lenovo-yoga-slim-7",
+      "category_id": "laptop",
+      "sku": "LTLV0362",
+      "name": "Laptop Lenovo Yoga Slim 7 14ILL10 Oled 83QM002FVN (U7 355/32GB RAM/1TB SSD/14.0\" 2.8K OLED 120Hz)",
+      "brand": "Lenovo",
+      "price": 52690000,
+      "original_price": 69999000,
+      "image_url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&auto=format&fit=crop&q=80",
+      "stock": 8,
+      "warranty": "24 tháng",
+      "specs": {
+        "screen": "14.0\" 2.8K OLED 120Hz",
+        "cpu": "Core Ultra 7 355",
+        "ram": "32GB LPDDR5x",
+        "storage": "1TB SSD"
+      },
+      "featured": true
+    },
+    {
+      "id": "cpu-intel-core-ultra-5-245k",
+      "category_id": "cpu",
+      "sku": "CPUI0550",
+      "name": "CPU Intel Core Ultra 5 245K (UP TO 5.2Ghz, 14 NHÂN 14 LUỒNG, 24MB CACHE, 125W) - Socket Intel LGA 1851/ARROW LAKE",
+      "brand": "INTEL",
+      "price": 6099000,
+      "original_price": 6799000,
+      "image_url": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=600&auto=format&fit=crop&q=80",
+      "stock": 25,
+      "warranty": "36 Tháng",
+      "specs": {
+        "socket": "LGA 1851",
+        "series": "Core Ultra 5",
+        "generation": "Arrow Lake",
+        "cores": "14 Nhân 14 Luồng",
+        "tdp": 125
+      },
+      "featured": true
+    },
+    {
+      "id": "cpu-amd-ryzen-7-7800x3d-tray",
+      "category_id": "cpu",
+      "sku": "CPUA0301",
+      "name": "CPU AMD Ryzen 7 7800X3D (4.2GHz Up to 5.0GHz, 105MB Cache, 8 Cores, 16 Threads, Socket AM5)-(Chính hãng không vỏ hộp)",
+      "brand": "AMD",
+      "price": 7799000,
+      "original_price": 8499000,
+      "image_url": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?w=600&auto=format&fit=crop&q=80",
+      "stock": 12,
+      "warranty": "36 Tháng",
+      "specs": {
+        "socket": "AM5",
+        "series": "Ryzen 7",
+        "generation": "Zen 4",
+        "cores": "8 Cores 16 Threads",
+        "tdp": 120
+      },
+      "featured": true
+    },
+    {
+      "id": "cpu-amd-ryzen-5-5600g",
+      "category_id": "cpu",
+      "sku": "CPUA0253",
+      "name": "CPU AMD Ryzen 5 5600G (3.9GHz Upto 4.4GHz / 19MB / 6 Cores, 12 Threads / 65W / Socket AM4)",
+      "brand": "AMD",
+      "price": 3999000,
+      "original_price": 4390000,
+      "image_url": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=600&auto=format&fit=crop&q=80",
+      "stock": 30,
+      "warranty": "36 Tháng",
+      "specs": {
+        "socket": "AM4",
+        "series": "Ryzen 5",
+        "generation": "Zen 3",
+        "cores": "6 Cores 12 Threads",
+        "tdp": 65
+      },
+      "featured": true
+    },
+    {
+      "id": "cpu-intel-core-ultra-9-285k",
+      "category_id": "cpu",
+      "sku": "CPUI0554",
+      "name": "CPU Intel Core Ultra 9 285K (UP TO 5.5Ghz, 24 NHÂN 24 LUỒNG, 36MB CACHE, 125W) - Socket Intel LGA 1851/ARROW LAKE",
+      "brand": "INTEL",
+      "price": 16999000,
+      "original_price": 18500000,
+      "image_url": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?w=600&auto=format&fit=crop&q=80",
+      "stock": 10,
+      "warranty": "36 Tháng",
+      "specs": {
+        "socket": "LGA 1851",
+        "series": "Core Ultra 9",
+        "generation": "Arrow Lake",
+        "cores": "24 Nhân 24 Luồng",
+        "tdp": 125
+      },
+      "featured": true
+    },
+    {
+      "id": "cpu-amd-ryzen-7-5700g",
+      "category_id": "cpu",
+      "sku": "CPUA0252",
+      "name": "CPU AMD Ryzen 7 5700G (3.8GHz Upto 4.6GHz / 20MB / 8 Cores, 16 Threads / 65W / Socket AM4)",
+      "brand": "AMD",
+      "price": 5199000,
+      "original_price": 5790000,
+      "image_url": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=600&auto=format&fit=crop&q=80",
+      "stock": 18,
+      "warranty": "36 Tháng",
+      "specs": {
+        "socket": "AM4",
+        "series": "Ryzen 7",
+        "generation": "Zen 3",
+        "cores": "8 Cores 16 Threads",
+        "tdp": 65
+      },
+      "featured": true
+    },
+    {
+      "id": "cpu-intel-i5-14600k",
+      "category_id": "cpu",
+      "name": "Intel Core i5-14600K (Up to 5.3GHz, 14 nhân 20 luồng, 24MB Cache, 125W, LGA 1700)",
+      "brand": "Intel",
+      "price": 8190000,
+      "original_price": 8990000,
+      "image_url": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=600&auto=format&fit=crop&q=80",
+      "stock": 25,
+      "warranty": "36 tháng",
+      "specs": {
+        "socket": "LGA1700",
+        "cores": "14 nhân (6P + 8E) 20 luồng",
+        "baseClock": "3.5 GHz",
+        "boostClock": "5.3 GHz",
+        "cache": "24MB Intel Smart Cache",
+        "tdp": 125,
+        "memorySupport": "DDR5 5600MHz / DDR4 3200MHz",
+        "integratedGraphics": "Intel UHD Graphics 770"
+      },
+      "featured": true
+    },
+    {
+      "id": "cpu-intel-i7-14700k",
+      "category_id": "cpu",
+      "name": "Intel Core i7-14700K (Up to 5.6GHz, 20 nhân 28 luồng, 33MB Cache, 125W, LGA 1700)",
+      "brand": "Intel",
+      "price": 11490000,
+      "original_price": 12390000,
+      "image_url": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?w=600&auto=format&fit=crop&q=80",
+      "stock": 18,
+      "warranty": "36 tháng",
+      "specs": {
+        "socket": "LGA1700",
+        "cores": "20 nhân (8P + 12E) 28 luồng",
+        "baseClock": "3.4 GHz",
+        "boostClock": "5.6 GHz",
+        "cache": "33MB Intel Smart Cache",
+        "tdp": 125,
+        "memorySupport": "DDR5 5600MHz / DDR4 3200MHz",
+        "integratedGraphics": "Intel UHD Graphics 770"
+      },
+      "featured": true
+    },
+    {
+      "id": "cpu-amd-ryzen-7-7800x3d",
+      "category_id": "cpu",
+      "name": "AMD Ryzen 7 7800X3D (4.2GHz Boost 5.0GHz, 8 nhân 16 luồng, 96MB V-Cache, AM5)",
+      "brand": "AMD",
+      "price": 10890000,
+      "original_price": 11990000,
+      "image_url": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=600&auto=format&fit=crop&q=80",
+      "stock": 15,
+      "warranty": "36 tháng",
+      "specs": {
+        "socket": "AM5",
+        "cores": "8 nhân 16 luồng",
+        "baseClock": "4.2 GHz",
+        "boostClock": "5.0 GHz",
+        "cache": "96MB 3D V-Cache",
+        "tdp": 120,
+        "memorySupport": "DDR5 5200MHz/EXPO 6000MHz",
+        "integratedGraphics": "AMD Radeon Graphics (2 Cores)"
+      },
+      "featured": true
+    },
+    {
+      "id": "cpu-amd-ryzen-5-7600x",
+      "category_id": "cpu",
+      "name": "AMD Ryzen 5 7600X (4.7GHz Boost 5.3GHz, 6 nhân 12 luồng, 32MB Cache, AM5)",
+      "brand": "AMD",
+      "price": 5690000,
+      "original_price": 6490000,
+      "image_url": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?w=600&auto=format&fit=crop&q=80",
+      "stock": 30,
+      "warranty": "36 tháng",
+      "specs": {
+        "socket": "AM5",
+        "cores": "6 nhân 12 luồng",
+        "baseClock": "4.7 GHz",
+        "boostClock": "5.3 GHz",
+        "cache": "32MB L3 Cache",
+        "tdp": 105,
+        "memorySupport": "DDR5",
+        "integratedGraphics": "AMD Radeon Graphics"
+      },
+      "featured": false
+    },
+    {
+      "id": "mb-msi-mag-b760-tomahawk-wifi",
+      "category_id": "mainboard",
+      "name": "MSI MAG B760 TOMAHAWK WIFI DDR5 (Socket LGA 1700, ATX, PCIe 5.0, Wi-Fi 6E)",
+      "brand": "MSI",
+      "price": 5290000,
+      "original_price": 5790000,
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&auto=format&fit=crop&q=80",
+      "stock": 20,
+      "warranty": "36 tháng",
+      "specs": {
+        "socket": "LGA1700",
+        "chipset": "Intel B760",
+        "formFactor": "ATX",
+        "ramType": "DDR5",
+        "ramSlots": 4,
+        "maxRam": "192GB (7000+ MHz OC)",
+        "m2Slots": "3x M.2 PCIe 4.0",
+        "connectivity": "Wi-Fi 6E, Bluetooth 5.3, 2.5G LAN"
+      },
+      "featured": true
+    },
+    {
+      "id": "mb-asus-rog-strix-z790-a-gaming",
+      "category_id": "mainboard",
+      "name": "ASUS ROG STRIX Z790-A GAMING WIFI II (LGA 1700, ATX, DDR5, PCIe 5.0, Wi-Fi 7)",
+      "brand": "ASUS",
+      "price": 9990000,
+      "original_price": 10990000,
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&auto=format&fit=crop&q=80",
+      "stock": 12,
+      "warranty": "36 tháng",
+      "specs": {
+        "socket": "LGA1700",
+        "chipset": "Intel Z790",
+        "formFactor": "ATX",
+        "ramType": "DDR5",
+        "ramSlots": 4,
+        "maxRam": "192GB (8000+ MHz OC)",
+        "m2Slots": "5x M.2 NVMe",
+        "connectivity": "Wi-Fi 7, Bluetooth 5.4, Intel 2.5G LAN"
+      },
+      "featured": true
+    },
+    {
+      "id": "mb-gigabyte-b650-aorus-elite-ax",
+      "category_id": "mainboard",
+      "name": "GIGABYTE B650 AORUS ELITE AX V2 (Socket AM5, ATX, DDR5, PCIe 5.0 M.2, Wi-Fi 6E)",
+      "brand": "GIGABYTE",
+      "price": 5590000,
+      "original_price": 6190000,
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&auto=format&fit=crop&q=80",
+      "stock": 22,
+      "warranty": "36 tháng",
+      "specs": {
+        "socket": "AM5",
+        "chipset": "AMD B650",
+        "formFactor": "ATX",
+        "ramType": "DDR5",
+        "ramSlots": 4,
+        "maxRam": "192GB (8000+ MHz OC)",
+        "m2Slots": "3x M.2 (1x PCIe 5.0, 2x PCIe 4.0)",
+        "connectivity": "Wi-Fi 6E, Bluetooth 5.3, 2.5GbE LAN"
+      },
+      "featured": false
+    },
+    {
+      "id": "ram-corsair-vengeance-rgb-32gb-6000",
+      "category_id": "ram",
+      "name": "RAM Corsair Vengeance RGB 32GB (2x16GB) DDR5 6000MHz C36 - Đen",
+      "brand": "Corsair",
+      "price": 3290000,
+      "original_price": 3690000,
+      "image_url": "https://images.unsplash.com/photo-1562976540-1502c2145186?w=600&auto=format&fit=crop&q=80",
+      "stock": 40,
+      "warranty": "36 tháng",
+      "specs": {
+        "type": "DDR5",
+        "capacity": "32GB (2x16GB)",
+        "bus": "6000MHz",
+        "latency": "CL36-44-44-96",
+        "voltage": "1.4V",
+        "rgb": true,
+        "profile": "Intel XMP 3.0 & AMD EXPO"
+      },
+      "featured": true
+    },
+    {
+      "id": "ram-kingston-fury-beast-32gb-5600",
+      "category_id": "ram",
+      "name": "RAM Kingston Fury Beast 32GB (2x16GB) DDR5 5600MHz CL36 - Đen",
+      "brand": "Kingston",
+      "price": 2790000,
+      "original_price": 3100000,
+      "image_url": "https://images.unsplash.com/photo-1562976540-1502c2145186?w=600&auto=format&fit=crop&q=80",
+      "stock": 50,
+      "warranty": "36 tháng",
+      "specs": {
+        "type": "DDR5",
+        "capacity": "32GB (2x16GB)",
+        "bus": "5600MHz",
+        "latency": "CL36-38-38",
+        "voltage": "1.25V",
+        "rgb": false,
+        "profile": "Intel XMP 3.0 & AMD EXPO"
+      },
+      "featured": false
+    },
+    {
+      "id": "ram-gskill-trident-z5-rgb-64gb-6400",
+      "category_id": "ram",
+      "name": "RAM G.Skill Trident Z5 RGB 64GB (2x32GB) DDR5 6400MHz CL32",
+      "brand": "G.Skill",
+      "price": 6890000,
+      "original_price": 7490000,
+      "image_url": "https://images.unsplash.com/photo-1562976540-1502c2145186?w=600&auto=format&fit=crop&q=80",
+      "stock": 14,
+      "warranty": "36 tháng",
+      "specs": {
+        "type": "DDR5",
+        "capacity": "64GB (2x32GB)",
+        "bus": "6400MHz",
+        "latency": "CL32-39-39-102",
+        "voltage": "1.40V",
+        "rgb": true,
+        "profile": "Intel XMP 3.0"
+      },
+      "featured": true
+    },
+    {
+      "id": "vga-asus-tuf-rtx-4070-ti-super",
+      "category_id": "vga",
+      "name": "ASUS TUF Gaming GeForce RTX 4070 Ti SUPER 16GB GDDR6X",
+      "brand": "ASUS",
+      "price": 24990000,
+      "original_price": 26900000,
+      "image_url": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?w=600&auto=format&fit=crop&q=80",
+      "stock": 10,
+      "warranty": "36 tháng",
+      "specs": {
+        "gpu": "GeForce RTX 4070 Ti SUPER",
+        "vram": "16GB GDDR6X 256-bit",
+        "cudaCores": 8448,
+        "tdp": 285,
+        "recommendedPsu": 750,
+        "length": "305mm (3.25 slot)",
+        "ports": "2x HDMI 2.1a, 3x DisplayPort 1.4a"
+      },
+      "featured": true
+    },
+    {
+      "id": "vga-msi-rtx-4060-ventus-2x",
+      "category_id": "vga",
+      "name": "MSI GeForce RTX 4060 VENTUS 2X Black 8G OC",
+      "brand": "MSI",
+      "price": 8490000,
+      "original_price": 9290000,
+      "image_url": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?w=600&auto=format&fit=crop&q=80",
+      "stock": 35,
+      "warranty": "36 tháng",
+      "specs": {
+        "gpu": "GeForce RTX 4060",
+        "vram": "8GB GDDR6 128-bit",
+        "cudaCores": 3072,
+        "tdp": 115,
+        "recommendedPsu": 550,
+        "length": "199mm (Dual Fan)",
+        "ports": "1x HDMI 2.1a, 3x DisplayPort 1.4a"
+      },
+      "featured": true
+    },
+    {
+      "id": "vga-gigabyte-rtx-4080-super-gaming-oc",
+      "category_id": "vga",
+      "name": "GIGABYTE GeForce RTX 4080 SUPER GAMING OC 16GB",
+      "brand": "GIGABYTE",
+      "price": 31990000,
+      "original_price": 34500000,
+      "image_url": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?w=600&auto=format&fit=crop&q=80",
+      "stock": 8,
+      "warranty": "36 tháng",
+      "specs": {
+        "gpu": "GeForce RTX 4080 SUPER",
+        "vram": "16GB GDDR6X 256-bit",
+        "cudaCores": 10240,
+        "tdp": 320,
+        "recommendedPsu": 850,
+        "length": "342mm (Triple Fan Windforce)",
+        "ports": "1x HDMI 2.1a, 3x DisplayPort 1.4a"
+      },
+      "featured": true
+    },
+    {
+      "id": "ssd-samsung-990-pro-1tb",
+      "category_id": "ssd",
+      "name": "SSD Samsung 990 Pro 1TB M.2 NVMe PCIe Gen 4.0 x4",
+      "brand": "Samsung",
+      "price": 2990000,
+      "original_price": 3490000,
+      "image_url": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=600&auto=format&fit=crop&q=80",
+      "stock": 45,
+      "warranty": "60 tháng",
+      "specs": {
+        "capacity": "1TB",
+        "formFactor": "M.2 2280",
+        "interface": "PCIe Gen 4.0 x4, NVMe 2.0",
+        "readSpeed": "7,450 MB/s",
+        "writeSpeed": "6,900 MB/s",
+        "tbw": "600 TBW"
+      },
+      "featured": true
+    },
+    {
+      "id": "ssd-kingston-nv2-1tb",
+      "category_id": "ssd",
+      "name": "SSD Kingston NV2 1TB M.2 PCIe Gen 4.0 x4 NVMe",
+      "brand": "Kingston",
+      "price": 1590000,
+      "original_price": 1890000,
+      "image_url": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=600&auto=format&fit=crop&q=80",
+      "stock": 60,
+      "warranty": "36 tháng",
+      "specs": {
+        "capacity": "1TB",
+        "formFactor": "M.2 2280",
+        "interface": "PCIe 4.0 x4 NVMe",
+        "readSpeed": "3,500 MB/s",
+        "writeSpeed": "2,100 MB/s",
+        "tbw": "320 TBW"
+      },
+      "featured": false
+    },
+    {
+      "id": "psu-corsair-rm750e-750w-gold",
+      "category_id": "psu",
+      "name": "Nguồn Corsair RM750e 750W 80 Plus Gold - Full Modular (ATX 3.0, PCIe 5.0)",
+      "brand": "Corsair",
+      "price": 2790000,
+      "original_price": 3090000,
+      "image_url": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?w=600&auto=format&fit=crop&q=80",
+      "stock": 30,
+      "warranty": "84 tháng",
+      "specs": {
+        "wattage": 750,
+        "efficiency": "80 Plus Gold (Lên đến 90%)",
+        "modular": "Full Modular",
+        "standard": "ATX 3.0 & PCIe 5.0 (12VHPWR sẵn sàng)",
+        "fanSize": "120mm Rifle Bearing với chế độ Zero RPM"
+      },
+      "featured": true
+    },
+    {
+      "id": "psu-msi-mag-a850gl-850w-gold",
+      "category_id": "psu",
+      "name": "Nguồn MSI MAG A850GL PCIE5 850W 80 Plus Gold - Full Modular",
+      "brand": "MSI",
+      "price": 3250000,
+      "original_price": 3600000,
+      "image_url": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?w=600&auto=format&fit=crop&q=80",
+      "stock": 25,
+      "warranty": "60 tháng",
+      "specs": {
+        "wattage": 850,
+        "efficiency": "80 Plus Gold",
+        "modular": "Full Modular",
+        "standard": "ATX 3.0, native 16-pin PCIe 5.0",
+        "fanSize": "120mm FDB Fan"
+      },
+      "featured": true
+    },
+    {
+      "id": "case-nzxt-h5-flow-black",
+      "category_id": "case",
+      "name": "Vỏ Case NZXT H5 Flow Black (Mid Tower, Kính Cường Lực, Luồng Gió Tối Ưu)",
+      "brand": "NZXT",
+      "price": 2190000,
+      "original_price": 2450000,
+      "image_url": "https://images.unsplash.com/photo-1587202372616-b43abea06c2a?w=600&auto=format&fit=crop&q=80",
+      "stock": 20,
+      "warranty": "24 tháng",
+      "specs": {
+        "type": "Mid Tower",
+        "mbSupport": "ATX, Micro-ATX, Mini-ITX",
+        "dimensions": "464 x 227 x 446 mm",
+        "gpuClearance": "365 mm",
+        "cpuCoolerClearance": "165 mm",
+        "fansIncluded": "2x 120mm F-Series (1x Dedicated GPU fan)",
+        "radiatorSupport": "Lên tới 280mm mặt trước, 240mm nóc"
+      },
+      "featured": true
+    },
+    {
+      "id": "case-lian-li-o11-vision-black",
+      "category_id": "case",
+      "name": "Vỏ Case LIAN LI O11 Vision Black (Kính 3 mặt không cột, Hi-end Dual Chamber)",
+      "brand": "LIAN LI",
+      "price": 3890000,
+      "original_price": 4290000,
+      "image_url": "https://images.unsplash.com/photo-1587202372616-b43abea06c2a?w=600&auto=format&fit=crop&q=80",
+      "stock": 15,
+      "warranty": "12 tháng",
+      "specs": {
+        "type": "Mid Tower Dual Chamber",
+        "mbSupport": "E-ATX, ATX, Micro-ATX, Mini-ITX",
+        "glass": "3 mặt kính cường lực không viền",
+        "gpuClearance": "455 mm",
+        "radiatorSupport": "Hỗ trợ 2x 360mm Radiator cùng lúc"
+      },
+      "featured": true
+    },
+    {
+      "id": "cooling-thermalright-peerless-assassin-120-se",
+      "category_id": "cooling",
+      "name": "Tản Nhiệt Khí Thermalright Peerless Assassin 120 SE ARGB",
+      "brand": "Thermalright",
+      "price": 790000,
+      "original_price": 950000,
+      "image_url": "https://images.unsplash.com/photo-1587202372575-8120b6e680a6?w=600&auto=format&fit=crop&q=80",
+      "stock": 40,
+      "warranty": "24 tháng",
+      "specs": {
+        "type": "Tản nhiệt khí tháp đôi (Dual Tower)",
+        "heatpipes": "6 ống đồng 6mm AGHP Gen 4",
+        "fans": "2x TL-C12C-S ARGB PWM 120mm",
+        "tdpRating": 245,
+        "height": "155 mm",
+        "socket": "Intel LGA1700/1200/115X, AMD AM5/AM4"
+      },
+      "featured": true
+    },
+    {
+      "id": "cooling-deepcool-ls720-se-360-black",
+      "category_id": "cooling",
+      "name": "Tản Nhiệt Nước AIO DeepCool LS720 SE 360mm ARGB Black",
+      "brand": "DeepCool",
+      "price": 2590000,
+      "original_price": 2990000,
+      "image_url": "https://images.unsplash.com/photo-1587202372575-8120b6e680a6?w=600&auto=format&fit=crop&q=80",
+      "stock": 25,
+      "warranty": "60 tháng",
+      "specs": {
+        "type": "Tản nhiệt nước All-In-One 360mm",
+        "radiatorSize": "402 x 120 x 27 mm (Nhôm)",
+        "pump": "Bơm thế hệ 4 với tốc độ 3100 RPM",
+        "fans": "3x 120mm ARGB PWM chống rò rỉ công nghệ Anti-Leak",
+        "tdpRating": 300,
+        "socket": "Intel LGA1700/1200/115X, AMD AM5/AM4"
+      },
+      "featured": true
+    },
+    {
+      "id": "hdd-seagate-barracuda-2tb",
+      "category_id": "hdd",
+      "sku": "HDD0250",
+      "name": "HDD Seagate Barracuda 2TB 3.5\" 7200RPM 256MB Cache SATA 3",
+      "brand": "Seagate",
+      "price": 1590000,
+      "original_price": 1790000,
+      "image_url": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=600&auto=format&fit=crop&q=80",
+      "stock": 30,
+      "warranty": "24 Tháng",
+      "specs": {
+        "capacity": "2TB",
+        "speed": "7200 RPM",
+        "size": "3.5 inch"
+      }
+    },
+    {
+      "id": "hdd-wd-blue-4tb",
+      "category_id": "hdd",
+      "sku": "HDD0450",
+      "name": "HDD Western Digital Blue 4TB 3.5\" 5400RPM 256MB Cache",
+      "brand": "Western Digital",
+      "price": 2490000,
+      "original_price": 2790000,
+      "image_url": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=600&auto=format&fit=crop&q=80",
+      "stock": 20,
+      "warranty": "24 Tháng",
+      "specs": {
+        "capacity": "4TB",
+        "speed": "5400 RPM",
+        "size": "3.5 inch"
+      }
+    },
+    {
+      "id": "vga-asus-rtx-3070-likenew",
+      "category_id": "vga_likenew",
+      "sku": "VGAL0307",
+      "name": "Card màn hình ASUS TUF Gaming RTX 3070 8GB GDDR6 (Like New 99%)",
+      "brand": "ASUS",
+      "price": 6490000,
+      "original_price": 7200000,
+      "image_url": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?w=600&auto=format&fit=crop&q=80",
+      "stock": 5,
+      "warranty": "12 Tháng",
+      "specs": {
+        "vram": "8GB GDDR6",
+        "tdp": 220
+      }
+    },
+    {
+      "id": "vga-msi-rtx-3080-likenew",
+      "category_id": "vga_likenew",
+      "sku": "VGAL0308",
+      "name": "Card màn hình MSI RTX 3080 Gaming X Trio 10GB GDDR6X (Like New 99%)",
+      "brand": "MSI",
+      "price": 9290000,
+      "original_price": 10500000,
+      "image_url": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?w=600&auto=format&fit=crop&q=80",
+      "stock": 4,
+      "warranty": "12 Tháng",
+      "specs": {
+        "vram": "10GB GDDR6X",
+        "tdp": 320
+      }
+    },
+    {
+      "id": "monitor-asus-tuf-vg279ql3a",
+      "category_id": "monitor",
+      "sku": "MHAS0279",
+      "name": "Màn hình ASUS TUF Gaming VG279QL3A 27\" IPS 180Hz 1ms sRGB 125%",
+      "brand": "ASUS",
+      "price": 4690000,
+      "original_price": 5290000,
+      "image_url": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=600&auto=format&fit=crop&q=80",
+      "stock": 15,
+      "warranty": "36 Tháng",
+      "specs": {
+        "screen": "27 inch IPS",
+        "refreshRate": "180Hz",
+        "resolution": "FHD"
+      }
+    },
+    {
+      "id": "monitor-lg-ultragear-27gr75q",
+      "category_id": "monitor",
+      "sku": "MHLG0270",
+      "name": "Màn hình LG UltraGear 27GR75Q-B 27\" 2K QHD IPS 165Hz 1ms HDR10 G-Sync",
+      "brand": "LG",
+      "price": 6890000,
+      "original_price": 7590000,
+      "image_url": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=600&auto=format&fit=crop&q=80",
+      "stock": 12,
+      "warranty": "24 Tháng",
+      "specs": {
+        "screen": "27 inch IPS 2K",
+        "refreshRate": "165Hz",
+        "resolution": "2560 x 1440"
+      }
+    },
+    {
+      "id": "combo-logitech-mk240",
+      "category_id": "combo_gear",
+      "sku": "CBLOG024",
+      "name": "Bộ bàn phím chuột không dây Logitech MK240 Nano Wireless",
+      "brand": "Logitech",
+      "price": 499000,
+      "original_price": 590000,
+      "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&auto=format&fit=crop&q=80",
+      "stock": 40,
+      "warranty": "12 Tháng",
+      "specs": {
+        "connection": "Wireless 2.4GHz Nano"
+      }
+    },
+    {
+      "id": "combo-razer-power-up",
+      "category_id": "combo_gear",
+      "sku": "CBRZ0010",
+      "name": "Bộ Combo Gaming Gear Razer Power Up Bundle (Phím Cynosa + Chuột DeathAdder + Tai nghe Kraken X)",
+      "brand": "Razer",
+      "price": 1890000,
+      "original_price": 2290000,
+      "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&auto=format&fit=crop&q=80",
+      "stock": 20,
+      "warranty": "24 Tháng",
+      "specs": {
+        "combo": "4 in 1 Razer"
+      }
+    },
+    {
+      "id": "keyboard-royal-kludge-rk-m75",
+      "category_id": "keyboard",
+      "sku": "KBRK0075",
+      "name": "Bàn phím cơ không dây Royal Kludge RK M75 3 Mode Gasket Mount Màn hình OLED",
+      "brand": "Royal Kludge",
+      "price": 1390000,
+      "original_price": 1690000,
+      "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&auto=format&fit=crop&q=80",
+      "stock": 35,
+      "warranty": "12 Tháng",
+      "specs": {
+        "switch": "Silver Switch",
+        "layout": "75%"
+      }
+    },
+    {
+      "id": "keyboard-fl-esports-og98",
+      "category_id": "keyboard",
+      "sku": "KBFL0098",
+      "name": "Bàn phím cơ FL-Esports OG98 Retro Wireless Switch Kailh Box Ice Cream",
+      "brand": "FL-Esports",
+      "price": 2490000,
+      "original_price": 2890000,
+      "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&auto=format&fit=crop&q=80",
+      "stock": 18,
+      "warranty": "12 Tháng",
+      "specs": {
+        "switch": "Kailh Box Ice Cream",
+        "layout": "98 phím"
+      }
+    },
+    {
+      "id": "mouse-logitech-g-pro-x-superlight",
+      "category_id": "mouse",
+      "sku": "MSLOG002",
+      "name": "Chuột không dây Gaming Logitech G Pro X Superlight 2 Hero 2 32000 DPI (60g)",
+      "brand": "Logitech",
+      "price": 3190000,
+      "original_price": 3890000,
+      "image_url": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=600&auto=format&fit=crop&q=80",
+      "stock": 25,
+      "warranty": "24 Tháng",
+      "specs": {
+        "sensor": "Hero 2",
+        "weight": "60g",
+        "dpi": "32000 DPI"
+      }
+    },
+    {
+      "id": "mouse-razer-deathadder-v3",
+      "category_id": "mouse",
+      "sku": "MSRZ0003",
+      "name": "Chuột Gaming Razer DeathAdder V3 Ultra-lightweight 59g Focus Pro 30K",
+      "brand": "Razer",
+      "price": 1590000,
+      "original_price": 1890000,
+      "image_url": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=600&auto=format&fit=crop&q=80",
+      "stock": 30,
+      "warranty": "24 Tháng",
+      "specs": {
+        "sensor": "Focus Pro 30K",
+        "weight": "59g"
+      }
+    },
+    {
+      "id": "headset-hyperx-cloud-iii",
+      "category_id": "headset",
+      "sku": "HSHX0003",
+      "name": "Tai nghe Gaming HyperX Cloud III Red/Black Âm thanh vòm DTS Headphone:X Spatial Audio",
+      "brand": "HyperX",
+      "price": 2090000,
+      "original_price": 2490000,
+      "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=80",
+      "stock": 22,
+      "warranty": "24 Tháng",
+      "specs": {
+        "audio": "DTS Spatial Audio",
+        "driver": "53mm"
+      }
+    },
+    {
+      "id": "headset-razer-blackshark-v2-x",
+      "category_id": "headset",
+      "sku": "HSRZ0002",
+      "name": "Tai nghe Razer BlackShark V2 X 7.1 TriForce 50mm Mic HyperClear",
+      "brand": "Razer",
+      "price": 990000,
+      "original_price": 1290000,
+      "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=80",
+      "stock": 35,
+      "warranty": "24 Tháng",
+      "specs": {
+        "audio": "Surround 7.1",
+        "driver": "50mm TriForce"
+      }
+    },
+    {
+      "id": "speaker-edifier-r1280db",
+      "category_id": "speaker",
+      "sku": "SPED0128",
+      "name": "Loa vi tính để bàn Edifier R1280DB Bluetooth Studio Bookshelf 42W RMS",
+      "brand": "Edifier",
+      "price": 2490000,
+      "original_price": 2890000,
+      "image_url": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=600&auto=format&fit=crop&q=80",
+      "stock": 15,
+      "warranty": "12 Tháng",
+      "specs": {
+        "power": "42W RMS",
+        "connection": "Bluetooth / Optical / Coaxial"
+      }
+    },
+    {
+      "id": "speaker-microlab-m108",
+      "category_id": "speaker",
+      "sku": "SPMC0108",
+      "name": "Loa vi tính Microlab M-108 2.1 Subwoofer Âm trầm mạnh mẽ 11W RMS",
+      "brand": "Microlab",
+      "price": 450000,
+      "original_price": 550000,
+      "image_url": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=600&auto=format&fit=crop&q=80",
+      "stock": 40,
+      "warranty": "12 Tháng",
+      "specs": {
+        "system": "2.1 Subwoofer",
+        "power": "11W RMS"
+      }
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-2804-NI05",
+      "customer_name": "aa",
+      "customer_phone": "0999123456",
+      "customer_address": "aa",
+      "note": "",
+      "payment_method": "banking",
+      "total_amount": 39279000,
+      "status": "pending",
+      "is_pc_build": false,
+      "created_at": "2026-10-26T20:09:24.651Z",
+      "items": [
+        {
+          "product_id": "laptop-acer-aspire-lite",
+          "product_name": "Laptop Acer Aspire Lite AL14-47P-R0TR (NX.X0PSV.002) (R5-7520U/16GB RAM/512GB SSD/14.0\" WUXGA)",
+          "product_image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80",
+          "category_id": "laptop",
+          "quantity": 1,
+          "unit_price": 17799000,
+          "subtotal": 17799000
+        },
+        {
+          "product_id": "cpu-intel-i7-14700k",
+          "product_name": "Intel Core i7-14700K (Up to 5.6GHz, 20 nhân 28 luồng, 33MB Cache, 125W, LGA 1700)",
+          "product_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?w=600&auto=format&fit=crop&q=80",
+          "category_id": "cpu",
+          "quantity": 1,
+          "unit_price": 11490000,
+          "subtotal": 11490000
+        },
+        {
+          "product_id": "mb-asus-rog-strix-z790-a-gaming",
+          "product_name": "ASUS ROG STRIX Z790-A GAMING WIFI II (LGA 1700, ATX, DDR5, PCIe 5.0, Wi-Fi 7)",
+          "product_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&auto=format&fit=crop&q=80",
+          "category_id": "mainboard",
+          "quantity": 1,
+          "unit_price": 9990000,
+          "subtotal": 9990000
+        }
+      ]
+    },
+    {
+      "id": "ORD-8942-VN",
+      "customer_name": "Nguyễn Văn An",
+      "customer_phone": "0912345678",
+      "customer_address": "123 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh",
+      "note": "Giao giờ hành chính, gọi trước khi đến",
+      "payment_method": "cod",
+      "total_amount": 33180000,
+      "status": "shipping",
+      "is_pc_build": true,
+      "created_at": "2026-10-24T19:48:06.388Z",
+      "items": [
+        {
+          "product_id": "cpu-intel-i5-14600k",
+          "product_name": "Intel Core i5-14600K",
+          "product_image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=600&auto=format&fit=crop&q=80",
+          "category_id": "cpu",
+          "quantity": 1,
+          "unit_price": 8190000,
+          "subtotal": 8190000
+        },
+        {
+          "product_id": "vga-asus-tuf-rtx-4070-ti-super",
+          "product_name": "ASUS TUF Gaming GeForce RTX 4070 Ti SUPER 16GB",
+          "product_image": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?w=600&auto=format&fit=crop&q=80",
+          "category_id": "vga",
+          "quantity": 1,
+          "unit_price": 24990000,
+          "subtotal": 24990000
+        }
+      ]
+    }
+  ]
+}
