@@ -188,3 +188,5 @@ DATABASE_URL=postgresql://postgres:mat_khau_cua_ban@localhost:5432/pc_store
 
 - **Số điện thoại mẫu có sẵn đơn hàng để tra cứu ngay:** `0912345678`
 - **Thử đặt hàng mới:** Điền số điện thoại của bạn, sau đó vào tab **Tra cứu đơn hàng** nhập lại số điện thoại đó để xem ngay tiến trình đơn hàng vừa tạo!
+#   C B - S t r o r e  
+ 
